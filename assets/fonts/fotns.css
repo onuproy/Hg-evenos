@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Autography';
+    src: url('Autography.woff2') format('woff2'),
+        url('Autography.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Afterglow';
+    src: url('Afterglow-Regular.woff2') format('woff2'),
+        url('Afterglow-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
